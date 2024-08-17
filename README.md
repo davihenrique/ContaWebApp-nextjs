@@ -1,4 +1,4 @@
-# webAppConta
+# WebAppConta
 
 Projeto criado para ser uma aplicação fronted para o projeto [ApiConta](https://github.com/davihenrique/ApiConta).
 
