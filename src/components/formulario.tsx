@@ -64,7 +64,6 @@ export default function Formulario() {
                         className="bg-black bg-opacity-40 text-white rounded-lg px-4 py-2 flex-1 focus:outline-none focus:ring-2 focus:ring-blue-400"
                         value={formData.nome}
                         onChange={handleChange}
-                        required
                     />
                 </div>
 
@@ -78,7 +77,6 @@ export default function Formulario() {
                         className="bg-black bg-opacity-40 text-white rounded-lg px-4 py-2 flex-1 focus:outline-none focus:ring-2 focus:ring-blue-400"
                         value={formData.valorOriginal}
                         onChange={handleChange}
-                        required
                     />
                 </div>
 
